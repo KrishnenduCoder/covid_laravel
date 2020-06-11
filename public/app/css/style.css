@@ -1,0 +1,258 @@
+/*
+* THIS IS STYLE CSS
+* AUTHOR KRISHNENDU KUMAR SETT
+*/
+
+.page-block-title{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: darkgrey;
+}
+.sidebar-title{
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 25px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+    letter-spacing: 1px;
+    color: #FF5464;
+}
+.list-group-item span{
+    margin-left: 20px;
+    color: #777777;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
+    font-weight: normal;
+
+}
+.card-bordered{
+    border: 1px solid #dbdfea;
+}
+.card-full{
+    height: 90%;
+}
+.card{
+    margin-top: 20px;
+    padding: 10px;
+}
+.box-title{
+    display: inline;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #364a63;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.overline-title{
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: dimgray;
+}
+.bg-num{
+    font-size: 26px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: cornflowerblue;
+}
+.covid-progress{
+    height: 4px;
+}
+.progress-reverse {
+    flex-direction: row-reverse;
+}
+.progress-pill, .progress-pill .progress-bar {
+    border-radius: 100px;
+}
+.dot.sq {
+    border-radius: 3px;
+}
+.dot-lg {
+    height: 12px;
+    width: 12px;
+}
+.dot {
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+}
+.bg-purple{
+    background-color: #816bff !important;
+}
+.bg-success{
+    background-color: #1ee0ac !important;
+}
+.bg-danger{
+    background-color: #e85347 !important;
+}
+.nk-cov-data{
+    margin-bottom: 5px;
+}
+.nk-cov-wg-note{
+    color: #8c8c8c;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.txt-left{
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+.txt-right{
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+.nk-tab-data{
+    margin-top: 10px;
+}
+.geo-chart-box{
+    padding-bottom: 15px;
+}
+.link-left{
+    display: inline-flex;
+    align-items: center;
+    font-weight: 500;
+    line-height: 1;
+    border: none;
+    background: transparent;
+    transition: all .3s ease;
+    white-space: nowrap;
+    font-size: 9px;
+    float: right;
+}
+.text-dark2{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #0d3625;
+}
+.text-purple2{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #816bff;
+}
+.text-success2{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #1ee0ac;
+}
+.text-danger2{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #e85347;
+}
+.text-warning2{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #ffcc5c;
+}
+.text-info2{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #6497b1;
+}
+.sub-text {
+    display: block;
+    font-size: 10px;
+    color: #5e7ea9;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.bordered-box{
+    border: 1px solid #dbdfea;
+    border-radius: 8px;
+    padding: 5px;
+}
+.info-list{
+    list-style: none;
+}
+.text-sm-generic{
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #777777;
+}
+.li-num{
+    font-size: 12px;
+    font-weight: bold;
+    float: right;
+    padding-right: 2px;
+    padding-top: 5px;
+}
+.sm-text{
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #777777;
+    text-transform: uppercase;
+}
+.box-footer-note{
+    margin-top: 10px;
+}
+.most-affected-tab tbody tr td{
+    font-size: 11px;
+    color: #777777;
+}
+.country-name{
+    text-transform: uppercase;
+    margin-left: 2px;
+}
+.most-affected-tab thead tr th{
+    font-size: 11px;
+    color: #8c8c8c;
+}
+.most-affected-tab{
+    margin-bottom: 25px;
+}
+.global-ratio-tab{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.global-ratio-tab tbody tr td{
+    font-size: 11px;
+    color: #777777;
+}
+.country-header{
+    vertical-align: middle;
+}
+.country-header-box{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.overline-title-sm{
+    color: #a3a3a3;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.box-amnt-num{
+    line-height: 1.1;
+    font-weight: 700;
+    font-size: 15px;
+}
+.country-details-box{
+    margin-bottom: 15px;
+}
+.sub-text-sm{
+    margin-left: 15px;
+    font-size: 9px;
+    color: dimgrey;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
